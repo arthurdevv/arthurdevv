@@ -2,7 +2,7 @@
 
 ### _Skills_
 - _Machine Learning & Deep Learning (Python, Tensorflow)._
-- _Front-End Development (HTML, CSS, JavaScript, TypeScript)._
+- _Front-End Development (HTML, CSS, JavaScript)._
 - _Back-End Development (Node.js, PHP, Go)._
 - _Mobile Development (React Native)._
 
