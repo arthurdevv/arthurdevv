@@ -13,5 +13,5 @@
 - _General-Purpose Development (C, C++)._
 
 ### _Get In Touch_
-- [Website]()
-- [LinkedIn]()
+- [Website](#)
+- [LinkedIn](#)
