@@ -15,3 +15,4 @@
 ### _Get In Touch_
 - [Website](#)
 - [LinkedIn](#)
+- [E-Mail[(arthurhenrique.contact@gmail.com)
