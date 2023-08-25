@@ -8,9 +8,7 @@
 
 ### ⥇ About me
 
-Greetings! I'm [Arthur Henrique](https://github.com/arthurdevv), a front-end developer passionate about turning interfaces into code. My design philosophy is centered around a simple, minimalist aesthetic and I strive to bring a more unique perspective to every project. My top priority is ensuring that each project is executed with the highest level of quality and seamlessly functions as intended.
-
-My insatiable thirst for knowledge drives me to stay current with the ever-evolving digital world, while dedicating significant amounts of time to developing and contributing new projects. I also love the idea of being able to create something new and useful from scratch.
+Greetings! I'm [Arthur Henrique](https://github.com/arthurdevv), a front-end developer passionate about turning interfaces into code. My code philosophy is centered around a simple, minimalist aesthetic and I strive to bring a more unique perspective to every project. My top priority is ensuring that each project is executed with the highest level of quality and seamlessly functions as intended. I also enjoy the idea of being able to create something new and useful from scratch.
 
 Thank you for taking the time to visit my profile. Please feel free to check out my projects!
 
