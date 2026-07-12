@@ -4,6 +4,16 @@
   </a>
 </h1>
 
-I'm **Arthur Henrique**, a front-end developer passionate about turning interfaces into code. My code philosophy is centered around a minimalist design and I strive to bring a more unique perspective to every project. Building something useful from scratch _and refining it until it feels right_ is what motivates me.
+<div align="center">
+  I'm <b>Arthur Henrique</b>, a front-end developer passionate about turning interfaces into code. 
+</div>
 
-Please feel free to check out my projects or contact me via <a href="mailto:arthurhenrique.dev@gmail.com">email</a> and connect with me on <a href="https://www.linkedin.com/in/arthur-henrique-3857a0264/">LinkedIn</a>.
+<div align="center">
+  Building something useful from scratch <i>and refining it until it feels right</i> is what motivates me.
+</div>
+
+<br />
+
+<div align="center">
+  Please feel free to check out my projects or contact me via <a href="mailto:arthurhenrique.dev@gmail.com">email</a> and connect with me on <a href="https://www.linkedin.com/in/arthur-henrique-3857a0264/">LinkedIn</a>.
+</div>
