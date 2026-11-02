@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  I'm <b>Arthur Henrique</b>, a front-end developer passionate about turning interfaces into code. 
+  I'm <b>Arthur Henrique</b>, a full stack developer passionate about turning interfaces into code. 
 </div>
 
 <div align="center">
